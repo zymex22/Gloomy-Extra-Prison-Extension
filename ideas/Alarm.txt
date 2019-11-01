@@ -1,0 +1,2 @@
+- If a prisoner get mental break or prison break ALARM
+- Alarm will wire to door or other electricals to start some sort of electrical/bomb/door/light/something.

@@ -1,0 +1,3 @@
+- Club to knock poeple out.
+- does some blunt damage.
+- medium chance to down.

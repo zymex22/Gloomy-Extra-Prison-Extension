@@ -1,0 +1,7 @@
+-1x1 or 1x2 jail door to lock off prison.
+-Split door like vanilla
+-Should be abit harder to break out then normal vanilla doors
+
+Stats:
+
+Cost:

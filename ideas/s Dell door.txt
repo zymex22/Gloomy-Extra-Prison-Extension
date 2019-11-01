@@ -1,0 +1,9 @@
+- Door will let prisoner go through if no alarm is on
+- Option to let prisoner go trough or not?
+- will be a 1x1 solid door sliding to left. (like doors expanded)
+
+Avius version
+-Will allow prisoners to pass.
+-Can lock by switching.
+-Can shoot through
+-Electrical variant can lock without switching.

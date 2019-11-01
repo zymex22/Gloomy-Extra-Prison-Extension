@@ -1,0 +1,5 @@
+- Chain link fence (prison yards)
+- fences will be cheap construction to separate prisoners and stop them from escaping.
+- they will be fragile and won't give any protection
+- can shoot through
+- Cant hold roof

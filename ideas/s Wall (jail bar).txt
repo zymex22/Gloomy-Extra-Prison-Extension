@@ -1,0 +1,4 @@
+- Jail bars see through to build prison look
+- thinner then normal wall more like a fence but function as a wall
+- Can shoot through
+- Can hold roof

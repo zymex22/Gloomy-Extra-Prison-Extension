@@ -1,0 +1,2 @@
+- Alarm if a prisoner go pass a trip wire / detector will alarm.
+- Alarm will wire to door or other electricals to start some sort of electrical/bomb/door/something.
